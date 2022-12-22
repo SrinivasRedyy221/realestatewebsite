@@ -18,7 +18,7 @@ function Howitwork() {
           </div>
           <div>
             <span className='fas fa-chart-line'></span>
-            <h4>Find a property</h4>
+            <h4>Find a Property</h4>
             <p>this is the property you want to search</p>
           </div>
 
